@@ -167,7 +167,7 @@ a:link {
 .callaction {
     flex:5;
     text-align: left;
-    margin: 0px 100px;
+    margin: auto;
 }
 
 .call button {
@@ -200,7 +200,7 @@ button:hover {
     .header,
     .grid,
     .container {
-    flex-direction: column;
+    flex-wrap: wrap;
     padding-top: 20px;
     text-align: center;
     align-items: center;
